@@ -1,0 +1,6 @@
+# Kode Python untuk Soal 3
+v = np.array([1, -2, 3])
+w = np.array([4, 0, -1])
+
+dot_product = np.dot(v, w)
+print("Dot product dari v dan w adalah:", dot_product)
