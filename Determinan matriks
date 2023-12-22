@@ -1,0 +1,5 @@
+# Kode Python untuk Soal 5
+F = np.array([[3, 1], [4, 2]])
+
+determinan_F = np.linalg.det(F)
+print("Determinan dari matriks F adalah:", determinan_F)
