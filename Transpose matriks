@@ -1,0 +1,5 @@
+# Kode Python untuk Soal 4
+E = np.array([[5, 8, 2], [1, 7, 4]])
+
+transpose_E = np.transpose(E)
+print("Transpose dari matriks E:\n", transpose_E)
