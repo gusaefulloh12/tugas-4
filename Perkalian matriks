@@ -1,0 +1,6 @@
+# Kode Python untuk Soal 2
+C = np.array([[2, 3], [1, 4]])
+D = np.array([[5, 2], [3, 1]])
+
+hasil_perkalian = np.dot(C, D)
+print("Hasil perkalian matriks C dan D:\n", hasil_perkalian)
